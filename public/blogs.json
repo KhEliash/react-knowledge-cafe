@@ -1,0 +1,53 @@
+[
+    {
+      "id": 987654321,
+      "cover_img": "https://picsum.photos/800/600",
+      "author": "Jason Smith",
+      "author_img": "https://randomuser.me/api/portraits/men/1.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 10,
+      "hashtags": ["health", "fitness", "nutrition"],
+      "title": "10 Tips for a Healthy Lifestyle"
+    },
+    {
+      "id": 234567890,
+      "cover_img": "https://placeimg.com/640/480/any",
+      "author": "Jason Lee",
+      "author_img": "https://randomuser.me/api/portraits/women/2.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": 6,
+      "hashtags": ["travel", "adventure", "explore"],
+      "title": "Exploring the Hidden Gems of South America"
+    },
+    {
+      "id": 345678901,
+      "cover_img": "https://source.unsplash.com/random/1024x768",
+      "author": "Jason Taylor",
+      "author_img": "https://source.unsplash.com/random/300x300",
+      "posted_date": "2024-03-08",
+      "reading_time": 12,
+      "hashtags": ["finance", "investment", "money"],
+      "title": "Mastering Personal Finance: Tips for Financial Independence"
+    },
+    {
+      "id": 456789012,
+      "cover_img": "https://loremflickr.com/800/600",
+      "author": "Jason Johnson",
+      "author_img": "https://loremflickr.com/320/240",
+      "posted_date": "2024-03-06",
+      "reading_time": 8,
+      "hashtags": ["technology", "innovation", "future"],
+      "title": "The Future of Technology: Trends and Predictions"
+    },
+    {
+      "id": 567890123,
+      "cover_img": "https://www.fillmurray.com/640/480",
+      "author": "Jason White",
+      "author_img": "https://www.thispersondoesnotexist.com/image",
+      "posted_date": "2024-03-04",
+      "reading_time": 7,
+      "hashtags": ["food", "cooking", "recipes"],
+      "title": "Delicious and Easy-to-Make Recipes for Busy Weeknights"
+    }
+  ]
+  
